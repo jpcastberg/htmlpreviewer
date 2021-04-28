@@ -1,0 +1,14 @@
+{
+  "name": "htmlpreviewer",
+  "description": "preview html",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpcastberg/htmlpreviewer.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpcastberg/htmlpreviewer/issues"
+  },
+  "homepage": "https://github.com/jpcastberg/htmlpreviewer"
+}
